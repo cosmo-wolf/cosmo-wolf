@@ -1,7 +1,3 @@
-Got it—no tables! Let's keep it clean, vertical, and easy to read using lists and bold headers instead. I've also locked in those secure contact methods for you.
-
-Here is the table-free version:
-
 👋 Hi, I'm Harshvardhan
 🚀 Student Developer & Automation Enthusiast
 I bridge the gap between complex problems and efficient solutions using Python, JavaScript, and C++. I’m passionate about building tools that save time and exploring the evolving world of AI.
